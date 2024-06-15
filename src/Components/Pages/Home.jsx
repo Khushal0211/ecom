@@ -22,6 +22,7 @@ const Home = () => {
   // })
   return (
     <>
+    <h1>gdf</h1>
     <Carousel data-bs-theme="dark">
       <Carousel.Item>
         <img
